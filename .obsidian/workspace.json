@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Software/Introdução.md",
-                "mode": "preview",
+                "file": "Sistemas Distribuídos/Transações Distribuídas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Software/Introdução.md",
+                "file": "Sistemas Distribuídos/Transações Distribuídas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Software/Introdução.md",
+                "file": "Sistemas Distribuídos/Transações Distribuídas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Software/Introdução.md"
+                "file": "Sistemas Distribuídos/Transações Distribuídas.md"
               }
             }
           }
@@ -148,9 +148,21 @@
   },
   "active": "8a3b4a4438a466e8",
   "lastOpenFiles": [
+    "Sistemas Distribuídos/Imagens/Pasted image 20240319131741.png",
+    "Sistemas Distribuídos/Transações Distribuídas.md",
+    "Sistemas Distribuídos/Imagens/Pasted image 20240319131650.png",
+    "Sistemas Distribuídos/Imagens/Pasted image 20240319131453.png",
+    "Sistemas Distribuídos/Transações.md",
+    "Sistemas Distribuídos/Exclusão Mútua.md",
+    "Engenharia de Software/Testing and Inspections.md",
+    "Engenharia de Software/Agile Software Engineering.md",
+    "Sistemas Distribuídos/Sincronização de Relógios.md",
+    "Sistemas Distribuídos/Imagens",
+    "Sistemas Distribuídos/Imagens/Pasted image 20240220133228.png",
+    "Engenharia de Software/Gestão de Código com Git.md",
+    "Engenharia de Software/Introdução.md",
     "Sistemas Distribuídos/Remote Procedure Call.md",
     "Sistemas Distribuídos/Sistemas Distribuídos.md",
-    "Engenharia de Software/Introdução.md",
     "Sistemas Distribuídos",
     "Engenharia de Software"
   ]
