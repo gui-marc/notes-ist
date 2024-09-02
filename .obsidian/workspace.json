@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a3b4a4438a466e8",
+            "id": "a6514810f8d49f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Distribuídos/Transações Distribuídas.md",
+                "file": "Inscrições Mestrado/Inscrições Mestrado.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Distribuídos/Transações Distribuídas.md",
+                "file": "Inscrições Mestrado/Inscrições Mestrado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Distribuídos/Transações Distribuídas.md",
+                "file": "Inscrições Mestrado/Inscrições Mestrado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Distribuídos/Transações Distribuídas.md"
+                "file": "Inscrições Mestrado/Inscrições Mestrado.md"
               }
             }
           }
@@ -146,10 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a3b4a4438a466e8",
+  "active": "cbb2ac3649d1f5d9",
   "lastOpenFiles": [
-    "Sistemas Distribuídos/Imagens/Pasted image 20240319131741.png",
+    "Inscrições Mestrado/Pasted image 20240902123256.png",
+    "Inscrições Mestrado/Inscrições Mestrado.md",
+    "Sistemas Distribuídos/Segurança.md",
+    "Compiladores/CDK - Nós.md",
+    "Inscrições Mestrado/Pasted image 20240902124131.png",
+    "Inscrições Mestrado/Pasted image 20240902123632.png",
+    "Inscrições Mestrado",
+    "Computação Gráfica/Untitled.md",
+    "Compiladores",
+    "Computação Gráfica/Introdução.md",
+    "Computação Gráfica",
+    "Engenharia de Software/Domain Logic Patterns.md",
     "Sistemas Distribuídos/Transações Distribuídas.md",
+    "Sistemas Distribuídos/Imagens/Pasted image 20240319131741.png",
     "Sistemas Distribuídos/Imagens/Pasted image 20240319131650.png",
     "Sistemas Distribuídos/Imagens/Pasted image 20240319131453.png",
     "Sistemas Distribuídos/Transações.md",

@@ -50,4 +50,3 @@ quando READY:
 	consenso.propose(INPUT) // INPUT PODE SER COMMIT OU ABORT
 	consenso.decide() -> (COMMIT / ABORT)
 ```
-
